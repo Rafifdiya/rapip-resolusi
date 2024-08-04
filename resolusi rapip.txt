@@ -1,5 +1,6 @@
 RESOLUSI RAPIP
 - Ngerti pake GIT ataupun Github
 - Ngerti basic coding
-- Konsumsi nutrisi harian yang lebih ideal
+ ( DONE )
 - Jalani lifestyle yang lebih sehat
+- Rutin minum air putih
