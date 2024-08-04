@@ -1,2 +1,2 @@
 # rapip-resolusi
-Repository untuk meyimpan rencana wpu kedepannya
+Repository untuk meyimpan rencana/resolusi rapip kedepannya yang lebih baik :)
