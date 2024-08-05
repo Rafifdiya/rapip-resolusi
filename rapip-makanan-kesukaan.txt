@@ -2,8 +2,8 @@
 Nasi goreng
 Aneka ikan fillet
 ^ Dori
-^ Tuna
 Any kind of potatoes
 ^ Kentang goreng
 ^ Spud potatoes
 Lasagna
+^ Tuna
