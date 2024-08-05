@@ -2,6 +2,7 @@
 Nasi goreng
 Aneka ikan fillet
 ^ Dori
+^ Mackerell
 Any kind of potatoes
 ^ Kentang goreng
 ^ Spud potatoes
